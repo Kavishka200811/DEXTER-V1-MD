@@ -73,7 +73,7 @@ else {
     } else {
         if(!superUser) { repondre("there is no alive for this bot") ; return};
 
-      await   repondre("⚔ 𝐃𝐄𝐗𝐓𝐄𝐑 𝐌𝐃 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓 𝗢𝗪𝗡𝗘𝗥 𝗗𝗘𝗫𝗧𝗘𝗥 ⚔");
+      await   repondre("⚔ 𝐊𝐀𝐕𝐈𝐘𝐀 𝐌𝐃 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓 𝗢𝗪𝗡𝗘𝗥 𝗗𝗘𝗫𝗧𝗘𝗥 ⚔");
          repondre(" *Support ravi and chaky ! cyber dexter")
      }
  } else {
